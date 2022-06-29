@@ -9,7 +9,7 @@ class ManagerTest {
 
     Manager first = new Manager("John");
 
-    Applicant goodApp = new Applicant("Jamiu", "First class");
+    Applicant goodApp = new Applicant("Jami", "First class");
     Applicant badApp = new Applicant("Badman", "pass");
     Product milo;
 
