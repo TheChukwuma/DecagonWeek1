@@ -14,6 +14,7 @@ public class Customer extends Person {
     }
 
     public ArrayList<Product> getProductList() {
+
         return productList;
     }
 }

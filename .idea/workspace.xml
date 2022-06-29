@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b945887e-64dc-4245-a2cd-c8e620a4acec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SizweBansiStore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/decagon/java/task1/Applicant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/decagon/java/task1/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/decagon/java/task1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/decagon/java/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/decagon/java/task1/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/decagon/java/task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/decagon/java/task1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/decagon/java/task1/Transaction.java" afterDir="false" />
+    <list default="true" id="b945887e-64dc-4245-a2cd-c8e620a4acec" name="Changes" comment="&quot;my project&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/decagon/java/task1/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SizweBansiStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SizweBansiStore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Applicant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Applicant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Cashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Transaction.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -44,13 +51,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "/Users/decagon/IdeaProjects/SizweBansiStore",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="com.decagon.java.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/decagon/java/task1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.decagon.java.task1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ManagerTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.decagon.java.task1.Main" />
       <module name="SizweBansiStore" />
       <extension name="coverage">
@@ -63,8 +92,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CustomerTest.buyProduct_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SizweBansiStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decagon.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.decagon.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="com.decagon.java.task1.CustomerTest" />
+      <option name="METHOD_NAME" value="buyProduct_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SizweBansiStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decagon.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.decagon.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="com.decagon.java.task1.ManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.hiredApplicantTest_testBadCashier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SizweBansiStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decagon.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.decagon.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="com.decagon.java.task1.ManagerTest" />
+      <option name="METHOD_NAME" value="hiredApplicantTest_testBadCashier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.hiredApplicantTest_testGoodCashier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SizweBansiStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decagon.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.decagon.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="com.decagon.java.task1.ManagerTest" />
+      <option name="METHOD_NAME" value="hiredApplicantTest_testGoodCashier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ManagerTest" />
+        <item itemvalue="JUnit.ManagerTest.hiredApplicantTest_testGoodCashier" />
+        <item itemvalue="JUnit.ManagerTest.hiredApplicantTest_testBadCashier" />
+        <item itemvalue="JUnit.CustomerTest.buyProduct_Test" />
         <item itemvalue="Application.com.decagon.java.task1.Main" />
       </list>
     </recent_temporary>
@@ -78,6 +174,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656248597389</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;my project&quot;">
+      <created>1656422591762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656422591762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +194,39 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;my project&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;my project&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Manager.java</url>
+          <line>11</line>
+          <properties class="com.decagon.java.task1.Manager" method="hireACashier">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Manager.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Manager.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Manager.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
