@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b945887e-64dc-4245-a2cd-c8e620a4acec" name="Changes" comment="&quot;my project&quot;" />
+    <list default="true" id="b945887e-64dc-4245-a2cd-c8e620a4acec" name="Changes" comment="&quot;my project&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/decagon/java/task1/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/decagon/java/task1/ManagerTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,19 +63,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.ManagerTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.decagon.java.task1.Main" />
-      <module name="SizweBansiStore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.decagon.java.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CustomerTest.buyProduct_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SizweBansiStore" />
       <extension name="coverage">
@@ -136,13 +126,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductTest.hiredApplicantTest_testGoodCashier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SizweBansiStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decagon.java.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.decagon.java.task1" />
+      <option name="MAIN_CLASS_NAME" value="com.decagon.java.task1.ProductTest" />
+      <option name="METHOD_NAME" value="hiredApplicantTest_testGoodCashier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ManagerTest" />
+        <item itemvalue="JUnit.ProductTest.hiredApplicantTest_testGoodCashier" />
+        <item itemvalue="JUnit.CustomerTest.buyProduct_Test" />
         <item itemvalue="JUnit.ManagerTest.hiredApplicantTest_testGoodCashier" />
         <item itemvalue="JUnit.ManagerTest.hiredApplicantTest_testBadCashier" />
-        <item itemvalue="JUnit.CustomerTest.buyProduct_Test" />
-        <item itemvalue="Application.com.decagon.java.task1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656489897350</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;my project&quot;">
+      <created>1656490209403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656490209403</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
