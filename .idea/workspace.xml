@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b945887e-64dc-4245-a2cd-c8e620a4acec" name="Changes" comment="&quot;my project&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/decagon/java/task1/CustomerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SizweBansiStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SizweBansiStore.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Applicant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Applicant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Cashier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decagon/java/task1/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/decagon/java/task1/Transaction.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656422591762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;my project&quot;">
+      <created>1656489377144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656489377144</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
